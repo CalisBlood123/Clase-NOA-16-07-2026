@@ -8,6 +8,7 @@ h1 {
     color: #f13059;
 }
 
-.p {
+p {
     margin-top: 1rem;
+    color: rgb(145, 52, 140);
 }
